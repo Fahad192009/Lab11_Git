@@ -1,4 +1,4 @@
-# Storage Estimator - Main Version
+# Storage Estimator
 
 ## Purpose
 This project estimates storage requirements using a Python program.
